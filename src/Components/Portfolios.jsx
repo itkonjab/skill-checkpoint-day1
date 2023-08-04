@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Portfolio = () => {
+const Portfolios = () => {
   return (
     <div className='portfolio'>
         <div class='w-[100%] pl-[150px] flex flex-row justify-between'>
@@ -21,4 +21,4 @@ const Portfolio = () => {
   );
 };
 
-export default Portfolio;
+export default Portfolios;

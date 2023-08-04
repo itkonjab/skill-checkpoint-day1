@@ -3,7 +3,7 @@ import './App.css';
 import Header from './Components/Header';
 import Introduce from './Components/Introduce';
 import Footer from './Components/footer';
-import Portfolio from './Components/portfolio';
+import Portfolios from './Components/Portfolios';
 import AdditionalPassions from './Components/AdditionalPassions';
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
     <Header />
     <Introduce />
     <AdditionalPassions/>
-    <Portfolio/>
+    <Portfolios/>
     <Footer />
     </div>
   )
